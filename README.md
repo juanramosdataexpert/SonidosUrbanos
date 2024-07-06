@@ -1,2 +1,3 @@
-# SonidosUrbanos
-Sonidos Urbanos: Contrastes Musicales entre Ciudades Norteamericanas
+# Sonidos Urbanos: Contrastes Musicales entre Ciudades Norteamericanas
+
+TODO: Hacer README
