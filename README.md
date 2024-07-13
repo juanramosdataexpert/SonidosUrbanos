@@ -21,3 +21,15 @@ We conducted a detailed analysis of the dataset focusing on top users, most play
 Despite the biases and issues identified in the dataset, this project is valuable as it highlights and addresses dataset errors. Once corrected, future updates to the database will yield useful insights. The project showcases strong skills in Pandas data manipulation and matplotlib visualization, chosen for its efficiency in handling lightweight data objects.
 
 It's important to note that due to insufficient numerical information, deeper analysis or machine learning tasks couldn't be fully explored in this project. Nevertheless, the project concludes satisfactorily given the available data.
+
+## Repository Navigation
+
+In this repository, you will find two main folders:
+
+- **Data**: Contains subfolders with datasets used in the project.
+  - **Raw**: Original data files.
+  - **Processed**: Dataset used for exploratory analysis.
+
+- **Notebooks**: Contains Jupyter notebooks detailing the data processing and analysis steps.
+  - **cleaning.ipynb**: Notebook where initial data cleaning is performed, resulting in the creation of `processed.csv`.
+  - **EDA.ipynb**: Notebook containing detailed exploratory data analysis of the processed dataset.
